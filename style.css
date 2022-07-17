@@ -1,0 +1,10 @@
+body{
+  margin: 10;
+  background-color: #333;
+  border: 1px solid red;
+}
+
+p{
+  color: green;
+  font-size: 2rem;
+}
