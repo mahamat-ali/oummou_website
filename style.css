@@ -5,6 +5,9 @@ body{
 }
 
 p{
-  color: green;
-  font-size: 2rem;
+  color: white;
+  padding: 10px;
+  font-size: 1.5rem;
+  text-decoration: underline;
+  
 }
